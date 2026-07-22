@@ -25,4 +25,4 @@ One self-contained `index.html`. No build step, no dependencies, no server.
 
 This is a **demo on sample data**, no real pantry's information is shown. It is not a mockup, it actually works, and it's a real day-one starting point for any pantry that wanted it.
 
-Built by Javier Elías with Claude Code · [javierxelias-svg.github.io](https://javierxelias-svg.github.io)
+Built by Javier Elías Crespo with Claude Code · [javierxelias-svg.github.io](https://javierxelias-svg.github.io)
