@@ -13,7 +13,7 @@ Type in the week's numbers and it hands you back, instantly:
 - **A plain-English brief** the staff can read at a glance, families served, what's fully stocked, what's critically low.
 - **A ready-to-post community message**, written for them, asking for exactly what's running low. Copy it, paste it to Facebook or a group chat, done.
 
-Edit any number and the whole brief updates live. No app to install, no training, no login. If you can fill in a number, you can run it.
+Tap − or + on any shelf item (or edit any number) and the whole brief, the needs list and the community post update live. Light and dark mode; works on a phone. No app to install, no training, no login. If you can fill in a number, you can run it.
 
 ## Why it's built this way
 
